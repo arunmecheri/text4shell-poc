@@ -2,7 +2,7 @@
 -------------
 
 
-1. Maven install to create the fat jar
+1. Maven install to create the fat jar 
 
 ```
 mvn clean install
